@@ -1,3 +1,3 @@
 # MLrepo
 
-I have been updating this repository with ML and DL algorithms for various data input. 
+This repository is for ML and DL algorithms for various data input. 
